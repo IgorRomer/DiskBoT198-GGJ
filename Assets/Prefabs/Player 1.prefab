@@ -4770,7 +4770,7 @@ ParticleSystemRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 68a66fb5a71f8204a8dcb613c97d1fa8, type: 3}
+  - {fileID: 2100000, guid: e73a58f6e2794ae7b1b7e50b7fb811b0, type: 2}
   - {fileID: 0}
   m_StaticBatchInfo:
     firstSubMesh: 0
@@ -5240,6 +5240,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 5
   panSpeed: 20
+  Chaves: 0
 --- !u!114 &6086563941964950577
 MonoBehaviour:
   m_ObjectHideFlags: 0
